@@ -1,0 +1,1 @@
+print("{{cookiecutter.data_print}}")
