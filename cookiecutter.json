@@ -1,5 +1,5 @@
 {
-    "release_name" : "my_release",
+    "release_name" : "{{coockiecutter.release_name}}",
     "data_print" : "Hiii man how are you", 
     "file": "firstfile"
 }
